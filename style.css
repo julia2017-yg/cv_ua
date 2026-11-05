@@ -339,7 +339,8 @@ strong {
   }
   .footer-wave,
   .header-waves-right,
-  .header-waves {
+  .header-waves,
+  .main-waves{
     display: none;
   }
 }
